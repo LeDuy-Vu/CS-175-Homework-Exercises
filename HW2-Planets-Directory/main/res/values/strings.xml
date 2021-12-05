@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Planets Directory</string>
+
+    <string name="info">Information</string>
+    <string name="address">Address: Solar System, Oort Cloud, Local Fluff, Local Bubble, Orion Arm, Milky Way Galaxy, Local Group, Virgo Supercluster, Laniakea Supercluster, Universe.</string>
+    <string name="phone">Call us: 888-8888</string>
+
+    <string name="mercury">Mercury</string>
+    <string name="mercuryDescription">
+        Mercury is the smallest and closest planet to the Sun in the Solar System. Its orbit around the Sun takes 87.97 Earth days, the shortest of all the planets in the Solar System.</string>
+
+    <string name="venus">Venus</string>
+    <string name="venusDescription">
+        Venus is the second planet from the Sun. It is named after the Roman goddess of love and beauty. As the brightest natural object in Earth\'s night sky after the Moon,
+        Venus can cast shadows and can be, on rare occasion, visible to the naked eye in broad daylight.</string>
+
+    <string name="mars">Mars</string>
+    <string name="marsDescription">
+        Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury.
+        In English, Mars carries the name of the Roman god of war and is often referred to as the "Red Planet".</string>
+
+    <string name="jupiter">Jupiter</string>
+    <string name="jupiterDescription">
+        Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass one-thousandth that of the Sun,
+        but two and a half times that of all the other planets in the Solar System combined.</string>
+
+    <string name="earth">Earth</string>
+    <string name="earthDescription">Earth is the third planet from the Sun and the only astronomical object known to harbor life.
+        About 29% of Earth\'s surface is land consisting of continents and islands. The remaining 71% is covered with water.</string>
+
+    <string name="warning">This planet is very beautiful. Do you want to proceed?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
